@@ -1,0 +1,12 @@
+div{
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(158, 65, 65);
+    color: white;
+    font-size: large;
+    font-style: italic;
+    font-weight: 500;
+    border: 1px dashed red;
+    border-radius: 5px;
+
+}
